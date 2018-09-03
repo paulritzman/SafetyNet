@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyNet", "SafetyNet\SafetyNet.csproj", "{C7E95A1F-20FD-4D2A-8604-908593786FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E95A1F-20FD-4D2A-8604-908593786FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E95A1F-20FD-4D2A-8604-908593786FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E95A1F-20FD-4D2A-8604-908593786FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E95A1F-20FD-4D2A-8604-908593786FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27088C40-0DD7-4B0A-914D-ED074EB0497F}
+	EndGlobalSection
+EndGlobal
